@@ -172,7 +172,7 @@
 }
 .filter .filter1 {
   display: flex;
-  gap: 670px;
+  gap: 870px;
 }
 .filter .filter1 a {
   text-decoration: none;
@@ -381,3 +381,4 @@
   padding-top: 25px;
   padding: auto;
 }
+
